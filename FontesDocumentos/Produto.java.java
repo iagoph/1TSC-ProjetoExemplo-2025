@@ -3,7 +3,7 @@
 
 public class Produto {
 
-	private double peso;
+	private int peso;
 	private double altura;
 	
 	public Produto() {
